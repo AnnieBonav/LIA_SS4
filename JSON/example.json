@@ -1,0 +1,74 @@
+{
+  "superheroes": [
+    {
+      "name": "Superman",
+      "power": "Super strength",
+      "alterEgo": "Clark Kent",
+      "city": "Metropolis",
+      "team": "Justice League"
+    },
+    {
+      "name": "Spider-Man",
+      "power": "Wall-crawling",
+      "alterEgo": "Peter Parker",
+      "city": "New York City",
+      "team": "Avengers"
+    },
+    {
+      "name": "Wonder Woman",
+      "power": "Superhuman strength",
+      "alterEgo": "Diana Prince",
+      "city": "Themyscira",
+      "team": "Justice League"
+    },
+    {
+      "name": "Batman",
+      "power": "Intelligence",
+      "alterEgo": "Bruce Wayne",
+      "city": "Gotham City",
+      "team": "Justice League"
+    },
+    {
+      "name": "Captain America",
+      "power": "Enhanced strength",
+      "alterEgo": "Steve Rogers",
+      "city": "New York City",
+      "team": "Avengers"
+    },
+    {
+      "name": "Iron Man",
+      "power": "Genius intellect",
+      "alterEgo": "Tony Stark",
+      "city": "New York City",
+      "team": "Avengers"
+    },
+    {
+      "name": "Black Widow",
+      "power": "Master spy",
+      "alterEgo": "Natasha Romanoff",
+      "city": "Moscow",
+      "team": "Avengers"
+    },
+    {
+      "name": "Thor",
+      "power": "God of Thunder",
+      "alterEgo": "Thor Odinson",
+      "city": "Asgard",
+      "team": "Avengers"
+    },
+    {
+      "name": "Hulk",
+      "power": "Superhuman strength",
+      "alterEgo": "Bruce Banner",
+      "city": "New York City",
+      "team": "Avengers"
+    },
+    {
+      "name": "Black Panther",
+      "power": "Enhanced senses",
+      "alterEgo": "T'Challa",
+      "city": "Wakanda",
+      "team": "Avengers"
+    }
+  ]
+}
